@@ -1,2 +1,3 @@
 This is a text file to push to GITHUB.
 For each version we add a new line.
+Goku is my favourite DBZ character!
